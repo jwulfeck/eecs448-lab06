@@ -1,0 +1,2 @@
+addBack does the same thing as addFront.
+RemoveFront and RemoveBack do not remove nodes or decrement the list's size.
